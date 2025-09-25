@@ -1,1 +1,1 @@
-tea
+Hello, this is a test file for GitHub Pages.
